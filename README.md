@@ -25,7 +25,7 @@ sudo apt update && sudo apt install -y apt-transport-https dirmngr
 echo "deb https://deb.gremlin.com/ release non-free" | sudo tee /etc/apt/sources.list.d/gremlin.list
 ```
 
-### Step #4, Import the GPG key
+### Step #4, Import the GPG key (GNU Privacy Guard Key)
 ```shell
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 9CDB294B29A5B1E2E00C24C022E8EF3461A50EF6
 ```
