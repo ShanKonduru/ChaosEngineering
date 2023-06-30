@@ -27,7 +27,7 @@ echo "deb https://deb.gremlin.com/ release non-free" | sudo tee /etc/apt/sources
 
 ### Step #4, Import the GPG key
 ```shell
-	sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 9CDB294B29A5B1E2E00C24C022E8EF3461A50EF6
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 9CDB294B29A5B1E2E00C24C022E8EF3461A50EF6
 ```
 
 ### Step #5, Install Gremlin
