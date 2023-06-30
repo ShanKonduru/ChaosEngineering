@@ -315,80 +315,55 @@ az datadog	=> Manage datadog.
 
 az datafactory	=> Manage Data Factory.
 
-az datamigration	
-Manage Data Migration.
+az datamigration => Manage Data Migration.
 
-az dataprotection	
-Manage dataprotection.
+az dataprotection => Manage dataprotection.
 
-az datashare	
-Manage Data Share.
+az datashare	=> Manage Data Share.
 
-az dedicated-hsm	
-Manage dedicated hsm with hardware security modules.
+az dedicated-hsm => Manage dedicated hsm with hardware security modules.
 
-az demo	
-Demos for designing, developing and demonstrating Azure CLI.
+az demo	=> Demos for designing, developing and demonstrating Azure CLI.
 
-az deployment	
-Manage Azure Resource Manager template deployment at subscription scope.
+az deployment	 => Manage Azure Resource Manager template deployment at subscription scope.
 
-az deployment-scripts	
-Manage deployment scripts at subscription or resource group scope.
+az deployment-scripts	=> Manage deployment scripts at subscription or resource group scope.
 
-az desktopvirtualization	
-Manage desktop virtualization.
+az desktopvirtualization	=> Manage desktop virtualization.
 
-az devcenter	
-Manage resources with devcenter.
+az devcenter	=>  Manage resources with devcenter.
 
-az devops	
-Manage Azure DevOps organization level operations.
+az devops	=> Manage Azure DevOps organization level operations.
 
-az disk	
-Manage Azure Managed Disks.
+az disk	 => Manage Azure Managed Disks.
 
-az disk-access	
-Manage disk access resources.
+az disk-access	=> Manage disk access resources.
 
-az disk-encryption-set	
-Disk Encryption Set resource.
+az disk-encryption-set	=> Disk Encryption Set resource.
 
-az disk-pool	
-Manage Azure disk pool.
+az disk-pool	=> Manage Azure disk pool.
 
-az dla	
-Manage Data Lake Analytics accounts, jobs, and catalogs.
+az dla	=> Manage Data Lake Analytics accounts, jobs, and catalogs.
 
-az dls	
-Manage Data Lake Store accounts and filesystems.
+az dls	=> Manage Data Lake Store accounts and filesystems.
 
-az dms	
-Manage Azure Data Migration Service (classic) instances.
+az dms	=> Manage Azure Data Migration Service (classic) instances.
 
-az dnc	
-Manage Delegated Network.
+az dnc	=> Manage Delegated Network.
 
-az dns-resolver	
-Manage Dns Resolver.
+az dns-resolver	=> Manage Dns Resolver.
 
-az dt	
-Manage Azure Digital Twins solutions & infrastructure.
+az dt	=> Manage Azure Digital Twins solutions & infrastructure.
 
-az dynatrace	
-Manage dynatrace.
+az dynatrace	=> Manage dynatrace.
 
-az edgeorder	
-Manage Edge Order.
+az edgeorder	 => Manage Edge Order.
 
-az elastic	
-Manage Microsoft Elastic.
+az elastic	=> Manage Microsoft Elastic.
 
-az elastic-san	
-Manage Elastic SAN.
+az elastic-san	=> Manage Elastic SAN.
 
-az eventgrid	
-Manage Azure Event Grid topics, domains, domain topics, system topics partner topics, event subscriptions, system topic event subscriptions and partner topic event subscriptions.
+az eventgrid	=> Manage Azure Event Grid topics, domains, domain topics, system topics partner topics, event subscriptions, system topic event subscriptions and partner topic event subscriptions.
 
 az eventhubs	
 Eventhubs.
