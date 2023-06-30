@@ -188,68 +188,131 @@ docker ps -a
 
 ## Commands
 az account =>Manage Azure subscription information.
+
 az acr	=> Manage private registries with Azure Container Registries.
+
 az ad	=>Manage Azure Active Directory Graph entities needed for Role Based Access Control.
+
 az adp	=> Manage Azure Autonomous Development Platform resources.
+
 az advisor	=> Manage Azure Advisor.
+
 az afd	=> Manage Azure Front Door Standard/Premium. For classical Azure Front Door, please refer https://docs.microsoft.com/en-us/cli/azure/network/front-door?view=azure-cli-latest.
+
 az ai-examples	=> Add AI powered examples to help content.
+
 az aks	=> Manage Azure Kubernetes Services.
+
 az alerts-management	=> Manage Azure Alerts Management Service Resource.
+
 az alias	=> Manage Azure CLI Aliases.
+
 az ams	=> Manage Azure Media Services resources.
+
 az apim	=> Manage Azure API Management services.
+
 az appconfig	=> Manage App Configurations.
+
 az appservice	=> Manage App Service plans.
+
 az arcappliance	=> Commands to manage an Appliance resource.
+
 az arcdata	=> Commands for using Azure Arc-enabled data services.
+
 az aro	=> Manage Azure Red Hat OpenShift clusters.
+
 az artifacts	=> Manage Azure Artifacts.
+
 az attestation	=> Manage Microsoft Azure Attestation (MAA).
+
 az automanage	=> Manage Automanage.
+
 az automation	=> Manage Automation Account.
+
 az azurestackhci=> Manage azurestackhci.
+
 az backup	=> Manage Azure Backups.
+
 az baremetalinstance => (PREVIEW) Manage BareMetal Instances.
+
 az batch	=> Manage Azure Batch.
+
 az batchai	=> Manage Batch AI resources.
+
 az bicep	=> Bicep CLI command group.
+
 az billing	=> Manage Azure Billing.
+
 az billing-benefits => Azure billing benefits commands.
+
 az blockchain	=> Manage blockchain.
+
 az blueprint	=> Commands to manage blueprint.
+
 az boards	=> Manage Azure Boards.
+
 az bot	=> Manage Microsoft Azure Bot Service.
+
 az cache	=> Commands to manage CLI objects cached using the --defer argument.
+
 az capacity	=> Manage capacity resources.
+
 az cdn	=> Manage Azure Content Delivery Networks (CDNs).
+
 az change-analysis=> List changes for resources.
+
 az cli-translator	=> Translate ARM template or REST API to CLI scripts.
+
 az cloud	=> Manage registered Azure clouds.
+
 az cloud-service=> Manage cloud service (extended support).
+
 az cognitiveservices => Manage Azure Cognitive Services accounts.
+
 az communication	=> Manage communication service with communication.
+
 az confcom	=> Commands to generate security policies for confidential containers in Azure.
+
 az confidentialledger => Manage Confidential Ledger.
+
 az config	=> Manage Azure CLI configuration.
+
 az configure	=> Manage Azure CLI configuration. This command is interactive.
+
 az confluent	=> Manage confluent resources.
+
 az connectedk8s	=> Commands to manage connected kubernetes clusters.
+
 az connectedmachine => Manage Connected Machine.
+
 az connectedvmware	=> Commands to manage Connected VMware.
+
 az connection	=> Commands to manage Service Connector local connections which allow local environment to connect Azure Resource. If you want to manage connection for compute service, please run 'az webapp/containerapp/spring connection'.
+
 az consumption	=> Manage consumption of Azure resources.
+
 az container	=> Manage Azure Container Instances.
+
 az containerapp	=> Manage Azure Container Apps.
+
 az cosmosdb	=> Manage Azure Cosmos DB database accounts.
+
 az costmanagement => Manage cost and billing in Azure.
+
 az csvmware	=> Manage Azure VMware Solution by CloudSimple.
+
 az custom-providers => Commands to manage custom providers.
+
 az customlocation	=> Commands to Create, Get, List and Delete CustomLocations.
+
 az databox	=> Manage data box.
+
 az databoxedge	=> Support data box edge device and management.
+
 az databricks	=> Manage databricks workspaces.
+
 az datadog	=> Manage datadog.
+
 az datafactory	=> Manage Data Factory.
 
 az datamigration	
